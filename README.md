@@ -2,15 +2,15 @@
 
 This is the entire repository of code and data used to create my Master's Thesis. The data-set is clean and ready for use, and the python files have not been edited from their use in my thesis. However, as these files have been compiled from local and remote sources, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
 
-A minimal representation of the data-set (Reddit comment ID and linked Wikidata ID) is presented on this github due to filesize constraints of github. To reproduce this study, comments must be obtained using the Reddit or Pushshift APIs using the provided comment IDs. You may also contain the originak author for the full data-set.
+A minimal representation of the data-set (Reddit comment ID and linked Wikidata ID) is presented on this github due to filesize constraints of github. However, the full data-set is available on Google Drive (compressed in .7z format): https://drive.google.com/drive/folders/1aeoXfZS1umYv2Ta1UwIxRum1Wpr_W1O0?usp=sharing
 
 ## Repository Structure
 
 The structure of the repository is explained below:
 
 * data
-	* This contains the data used to conduct this thesis. It has been processed as described in the Data section of my thesis. Large data-sets are saved in a .7z compressed version so it could be uploaded onto github. It contains the following subfolders:
-	* *classifier* : contains the data splits used in the classifier as well as the pre-trained 100-dimension embeddings and word substitition list.
+	* This contains the data used to conduct this thesis. It has been processed as described in the Data section of my thesis. Large data-sets are kept on the google drive. It contains the following subfolders:
+	* *classifier* : contains the pre-trained 100-dimension embeddings (compressed to .7z file) and word substitition list.
 	* *data_subsets* : smaller subsections of the all_comments.csv
 	* *external_datasets* : data sourced externally used, or considered for use in my thesis
 	* *interim_results* : interim data files (e.g. for PMI)
