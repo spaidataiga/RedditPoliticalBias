@@ -1,6 +1,8 @@
 # RedditPoliticalBias
 
-This is the entire repository of code and data used to create my Master's Thesis. The data-set is clean and ready for use, and the python files have not been edited from their use in my thesis. However, as these files have been moved locally as well as from the remote DIKU compute cluster, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
+This is the entire repository of code and data used to create my Master's Thesis. The data-set is clean and ready for use, and the python files have not been edited from their use in my thesis. However, as these files have been compiled from local and remote sources, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
+
+## Repository Structure
 
 The structure of the repository is explained below:
 
@@ -17,9 +19,12 @@ The structure of the repository is explained below:
 * python
 	* This contains folders of the codes used to process the data, train the model, and run the analyses.
 
+## Environments
+
 The code in this document must be run with two separate environments. If the document requires environment 1, it will say at the top of the file. Otherwise, all code can be run on environment 2. The required packages for both environments are listed below.
 
-*Environment1*
+### *Environment1*
+
 blis            0.2.4
 boto3           1.17.33
 botocore        1.20.33
@@ -52,7 +57,8 @@ tqdm            4.59.0
 urllib3         1.26.4
 wasabi          0.8.2
 
-*Environment2*
+### *Environment2*
+
 backcall           0.2.0
 blis               0.7.4
 bpemb              0.3.2
