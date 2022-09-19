@@ -1,9 +1,0 @@
-Topic: 0 Word: 0.016*"guy" + 0.015*"man" + 0.012*"time" + 0.011*"family" + 0.010*"woman" + 0.010*"child" + 0.009*"kid" + 0.009*"friend" + 0.008*"wife" + 0.007*"dude" 
-
-Topic: 1 Word: 0.019*"people" + 0.018*"vote" + 0.017*"party" + 0.016*"candidate" + 0.015*"election" + 0.015*"voter" + 0.012*"%" + 0.012*"year" + 0.009*"way" + 0.009*"primary" 
-
-Topic: 2 Word: 0.018*"supporter" + 0.013*"thing" + 0.013*"people" + 0.012*"president" + 0.011*"news" + 0.011*"trump" + 0.011*"shit" + 0.010*"medium" + 0.007*"comment" + 0.007*"idiot" 
-
-Topic: 3 Word: 0.008*"war" + 0.008*"people" + 0.008*"government" + 0.008*"wall" + 0.007*"money" + 0.007*"country" + 0.006*"policy" + 0.005*"year" + 0.005*"economy" + 0.005*"thing" 
-
-Topic: 4 Word: 0.017*"investigation" + 0.014*"crime" + 0.012*"campaign" + 0.010*"lawyer" + 0.010*"evidence" + 0.009*"law" + 0.008*"case" + 0.007*"charge" + 0.007*"jail" + 0.007*"team" 

@@ -1,5 +1,0 @@
-Topic: 0 Word: 0.046*"’" + 0.031*"look" + 0.018*"fuck" + 0.015*"’m" + 0.015*"think" + 0.015*"blame" + 0.014*"support" + 0.013*"care" + 0.012*"know" + 0.012*"remember" 
-Topic: 1 Word: 0.049*"vote" + 0.039*"win" + 0.038*"think" + 0.018*"mean" + 0.015*"talk" + 0.014*"work" + 0.013*"know" + 0.013*"want" + 0.012*"lose" + 0.011*"agree" 
-Topic: 2 Word: 0.022*"know" + 0.016*"need" + 0.014*"elect" + 0.014*"wait" + 0.013*"come" + 0.012*"forget" + 0.012*"tell" + 0.010*"think" + 0.010*"want" + 0.009*"start" 
-Topic: 3 Word: 0.027*"run" + 0.019*"lose" + 0.018*"hate" + 0.017*"love" + 0.016*"pay" + 0.015*"like" + 0.014*"beat" + 0.013*"think" + 0.011*"sell" + 0.011*"know" 
-Topic: 4 Word: 0.015*"want" + 0.009*"know" + 0.009*"believe" + 0.009*"claim" + 0.008*"think" + 0.008*"use" + 0.007*"hack" + 0.007*"steal" + 0.007*"try" + 0.007*"imagine" 

@@ -1,0 +1,19 @@
+Topic: 0 Word: 0.014*"thing" + 0.012*"crime" + 0.010*"evidence" + 0.009*"jail" + 0.008*"people" + 0.008*"law" + 0.007*"fuck" + 0.007*"question" + 0.007*"trump" + 0.007*"case" 
+
+Topic: 1 Word: 0.014*"supporter" + 0.013*"people" + 0.009*"medium" + 0.009*"year" + 0.009*"trump" + 0.008*"right" + 0.007*"left" + 0.007*"wing" + 0.007*"conservative" + 0.007*"liberal" 
+
+Topic: 2 Word: 0.014*"deal" + 0.012*"job" + 0.011*"border" + 0.009*"speaker" + 0.009*"war" + 0.008*"press" + 0.008*"point" + 0.007*"people" + 0.007*"pm" + 0.007*"face" 
+
+Topic: 3 Word: 0.011*"family" + 0.011*"child" + 0.010*"guy" + 0.009*"money" + 0.009*"kid" + 0.008*"school" + 0.007*"husband" + 0.007*"friend" + 0.007*"people" + 0.006*"lady" 
+
+Topic: 4 Word: 0.038*"email" + 0.020*"investigation" + 0.013*"server" + 0.010*"campaign" + 0.010*"meeting" + 0.010*"information" + 0.008*"collusion" + 0.008*"news" + 0.007*"trump" + 0.006*"dirt" 
+
+Topic: 5 Word: 0.021*"trump" + 0.009*"day" + 0.009*"tax" + 0.008*"people" + 0.007*"house" + 0.007*"book" + 0.007*"head" + 0.006*"choice" + 0.006*"dude" + 0.006*"meme" 
+
+Topic: 6 Word: 0.032*"vote" + 0.025*"candidate" + 0.023*"election" + 0.021*"people" + 0.019*"voter" + 0.019*"primary" + 0.016*"%" + 0.015*"state" + 0.012*"poll" + 0.011*"chance" 
+
+Topic: 7 Word: 0.015*"party" + 0.012*"people" + 0.011*"president" + 0.010*"time" + 0.009*"government" + 0.009*"way" + 0.008*"policy" + 0.008*"leader" + 0.007*"country" + 0.007*"politician" 
+
+Topic: 8 Word: 0.015*"dem" + 0.014*"person" + 0.014*"daughter" + 0.014*"wall" + 0.013*"fan" + 0.011*"republican" + 0.011*"moron" + 0.010*"dog" + 0.009*"father" + 0.008*"nominee" 
+
+Topic: 9 Word: 0.031*"woman" + 0.016*"man" + 0.013*"comment" + 0.011*"people" + 0.010*"article" + 0.008*"sub" + 0.007*"politic" + 0.007*"post" + 0.007*"thing" + 0.006*"tweet" 

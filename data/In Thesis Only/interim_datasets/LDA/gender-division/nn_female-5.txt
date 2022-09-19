@@ -1,0 +1,9 @@
+Topic: 0 Word: 0.008*"government" + 0.008*"people" + 0.007*"wall" + 0.006*"deal" + 0.006*"trump" + 0.005*"country" + 0.005*"war" + 0.004*"policy" + 0.004*"thing" + 0.004*"year" 
+
+Topic: 1 Word: 0.010*"money" + 0.007*"child" + 0.007*"people" + 0.007*"family" + 0.006*"wife" + 0.005*"bitch" + 0.005*"trump" + 0.005*"kid" + 0.005*"jail" + 0.005*"day"
+ 
+Topic: 2 Word: 0.020*"people" + 0.018*"vote" + 0.017*"candidate" + 0.014*"election" + 0.013*"voter" + 0.013*"party" + 0.011*"primary" + 0.010*"trump" + 0.009*"thing" + 0.009*"woman" 
+
+Topic: 3 Word: 0.024*"email" + 0.014*"investigation" + 0.009*"evidence" + 0.009*"crime" + 0.008*"campaign" + 0.008*"server" + 0.007*"question" + 0.007*"information" + 0.007*"trump" + 0.006*"meeting" 
+
+Topic: 4 Word: 0.021*"president" + 0.014*"time" + 0.011*"way" + 0.010*"year" + 0.009*"trump" + 0.008*"man" + 0.007*"point" + 0.007*"person" + 0.007*"office" + 0.007*"dem" 

@@ -1,6 +1,0 @@
-> library(ARTool)
-> sg_r <- read.csv("C:/Users/vanki/sg_r.csv")
->   View(sg_r)
-> sg_r$sex <- as.factor(sg_r$sex)
-> sg_r$group <- as.factor(sg_r$group)
-> m <- art(Valence ~ sex + group + sex:group, data=sg_r)

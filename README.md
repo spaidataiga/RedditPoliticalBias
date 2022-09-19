@@ -1,6 +1,6 @@
 # RedditPoliticalBias
 
-This is the entire repository of code and data used to create my Master's Thesis. The data-set is clean and ready for use, and the python files have not been edited from their use in my thesis. However, as these files have been compiled from local and remote sources, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
+This is the entire repository of code and data used to create my Master's Thesis and the resulting publications (Marjanovic, Stanczak and Augenstein (2022)). The data-set is clean and ready for use. However, as these files have been compiled from local and remote sources, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
 
 A minimal representation of the data-set (Reddit comment ID and linked Wikidata ID) is presented on this github due to filesize constraints of github. However, the full data-set is available on Google Drive (compressed in .7z format): https://drive.google.com/drive/folders/1aeoXfZS1umYv2Ta1UwIxRum1Wpr_W1O0?usp=sharing
 
@@ -11,13 +11,12 @@ The structure of the repository is explained below:
 * data
 	* This contains the data used to conduct this thesis. It has been processed as described in the Data section of my thesis. Large data-sets are kept on the google drive. It contains the following subfolders:
 	* *classifier* : contains the pre-trained 100-dimension embeddings (compressed to .7z file) and word substitition list.
-	* *data_subsets* : smaller subsections of the all_comments.csv
 	* *external_datasets* : data sourced externally used, or considered for use in my thesis
 	* *interim_results* : interim data files (e.g. for PMI)
 * figures
 	* This contains the various figures included in my thesis, in addition to several that were not included.
 * notebooks
-	* This contains jupyter notebooks (and some RStudio code) used to create the figures, and conduct some of the statistical analyses shown in this thesis. These notebooks were working documents and may be difficult to run, as they are not all organised and many cells may be out of order. Please contact the original author (me) for help if the code in these notebooks needs to be run.
+	* This contains jupyter notebooks (and some RStudio code) used to create the figures, and conduct some of the statistical analyses shown in this thesis. Please contact the original author (me) for help if the code in these notebooks needs to be run.
 * python
 	* This contains folders of the codes used to process the data, train the model, and run the analyses.
 

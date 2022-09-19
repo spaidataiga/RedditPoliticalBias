@@ -1,0 +1,29 @@
+Topic: 0 Word: 0.030*"campaign" + 0.024*"shutdown" + 0.020*"jail" + 0.017*"way" + 0.017*"finance" + 0.012*"deal" + 0.011*"point" + 0.010*"approval" + 0.010*"dossier" + 0.010*"joke" 
+
+Topic: 1 Word: 0.013*"email" + 0.011*"gun" + 0.009*"treason" + 0.009*"prison" + 0.008*"conspiracy" + 0.007*"people" + 0.006*"theory" + 0.006*"ticket" + 0.006*"campaign" + 0.005*"server" 
+
+Topic: 2 Word: 0.060*"supporter" + 0.037*"guy" + 0.023*"idiot" + 0.023*"pardon" + 0.014*"bitch" + 0.013*"son" + 0.011*"people" + 0.009*"swamp" + 0.008*"trump" + 0.007*"enemy" 
+
+Topic: 3 Word: 0.021*"man" + 0.021*"family" + 0.020*"child" + 0.019*"woman" + 0.016*"kid" + 0.014*"friend" + 0.014*"wife" + 0.011*"tweet" + 0.009*"url" + 0.009*"girl" 
+
+Topic: 4 Word: 0.033*"wall" + 0.017*"border" + 0.011*"immigration" + 0.011*"people" + 0.009*"immigrant" + 0.009*"r" + 0.008*"traitor" + 0.008*"administration" + 0.008*"problem" + 0.007*"government" 
+
+Topic: 5 Word: 0.026*"people" + 0.010*"party" + 0.010*"country" + 0.010*"leader" + 0.009*"conservative" + 0.009*"policy" + 0.009*"People" + 0.008*"politician" + 0.008*"liberal" + 0.008*"power" 
+
+Topic: 6 Word: 0.029*"vote" + 0.025*"voter" + 0.024*"candidate" + 0.023*"election" + 0.020*"party" + 0.019*"%" + 0.014*"primary" + 0.014*"state" + 0.012*"people" + 0.010*"seat" 
+
+Topic: 7 Word: 0.023*"republican" + 0.020*"office" + 0.015*"progressive" + 0.015*"criminal" + 0.012*"idea" + 0.012*"dog" + 0.011*"video" + 0.011*"twitter" + 0.010*"democrat" + 0.010*"info" 
+
+Topic: 8 Word: 0.018*"war" + 0.016*"troop" + 0.009*"intelligence" + 0.008*"military" + 0.007*"people" + 0.006*"country" + 0.006*"government" + 0.006*"agency" + 0.006*"president" + 0.005*"lol" 
+
+Topic: 9 Word: 0.026*"investigation" + 0.022*"crime" + 0.018*"lawyer" + 0.015*"evidence" + 0.012*"law" + 0.012*"case" + 0.011*"charge" + 0.010*"impeachment" + 0.010*"collusion" + 0.010*"indictment" 
+
+Topic: 10 Word: 0.015*"money" + 0.015*"economy" + 0.013*"tax" + 0.011*"market" + 0.010*"government" + 0.009*"trade" + 0.009*"business" + 0.009*"company" + 0.008*"year" + 0.008*"people" 
+
+Topic: 11 Word: 0.052*"president" + 0.033*"trump" + 0.025*"year" + 0.017*"presidency" + 0.016*"meeting" + 0.014*"dude" + 0.012*"advisor" + 0.011*"credit" + 0.010*"fan" + 0.010*"dictator" 
+
+Topic: 12 Word: 0.022*"moron" + 0.021*"thank" + 0.019*"base" + 0.019*"job" + 0.015*"cult" + 0.013*"lie" + 0.012*"amp" + 0.011*"reason" + 0.011*"follower" + 0.011*"meme" 
+
+Topic: 13 Word: 0.023*"news" + 0.017*"medium" + 0.016*"article" + 0.013*"comment" + 0.011*"day" + 0.011*"people" + 0.010*"story" + 0.009*"source" + 0.009*"sub" + 0.009*"headline" 
+
+Topic: 14 Word: 0.030*"shit" + 0.029*"thing" + 0.026*"time" + 0.020*"fuck" + 0.014*"ass" + 0.013*"term" + 0.013*"people" + 0.013*"piece" + 0.012*"asshole" + 0.011*"lot" 

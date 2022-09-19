@@ -1,0 +1,5 @@
+Topic: 0 Word: 0.029*"republican" + 0.017*"wrong" + 0.014*"white" + 0.013*"corrupt" + 0.013*"-" + 0.013*"corporate" + 0.013*"high" + 0.012*"fine" + 0.011*"crooked" + 0.010*"rich" 
+Topic: 1 Word: 0.030*"great" + 0.028*"new" + 0.026*"popular" + 0.024*"stupid" + 0.022*"american" + 0.020*"fake" + 0.017*"free" + 0.016*"public" + 0.015*"nice" + 0.013*"different" 
+Topic: 2 Word: 0.038*"russian" + 0.022*"old" + 0.017*"true" + 0.017*"private" + 0.016*"political" + 0.014*"dumb" + 0.013*"hard" + 0.012*"crazy" + 0.011*"progressive" + 0.011*"guilty" 
+Topic: 3 Word: 0.055*"good" + 0.038*"right" + 0.037*"sure" + 0.020*"young" + 0.019*"black" + 0.016*"conservative" + 0.015*"liberal" + 0.014*"funny" + 0.013*"presidential" + 0.013*"happy" 
+Topic: 4 Word: 0.041*"bad" + 0.027*"big" + 0.025*"democratic" + 0.025*"fucking" + 0.020*"real" + 0.015*"second" + 0.014*"fair" + 0.013*"smart" + 0.013*"foreign" + 0.012*"single" 
