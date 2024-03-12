@@ -1,6 +1,6 @@
 # RedditPoliticalBias
 
-This is the entire repository of code and data used to create my Master's Thesis and the resulting publications (Marjanovic, Stanczak and Augenstein (2022)). The data-set is clean and ready for use. However, as these files have been compiled from local and remote sources, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
+This is the entire repository of code and data used to create my Master's Thesis and the resulting publications [(Marjanovic, Stanczak and Augenstein (2022))](https://arxiv.org/abs/2112.12014). The data-set is clean and ready for use. However, as these files have been compiled from local and remote sources, filepaths will need to be altered to run properly. Please contact the original author for guidance if needed.
 
 A minimal representation of the data-set (Reddit comment ID and linked Wikidata ID) is presented on this github due to filesize constraints of github. However, the full data-set is available on Google Drive (compressed in .7z format): https://drive.google.com/drive/folders/1aeoXfZS1umYv2Ta1UwIxRum1Wpr_W1O0?usp=sharing
 
